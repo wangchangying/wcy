@@ -1,8 +1,3 @@
-spring:
-  application:
-    name: Cloud-TestServer
-  cloud:
-    config:
-      profile: wcy
-      uri: http://localhost:7999
-      label: master
+test01:
+  test02:
+    test03: SpringCloud -TestServer
