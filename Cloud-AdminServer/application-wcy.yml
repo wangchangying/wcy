@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: Cloud-TestServer
+  cloud:
+    config:
+      profile: wcy
+      uri: http://localhost:7999
